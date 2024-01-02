@@ -10,7 +10,6 @@ Make sure you have tivaware installed and that its files are accessable to the p
 * PB2: IR sender
 * PB3: Start Button (PUR)
 * PB4:Stop Button (PUR)
-    * `TODO: on stopping, disable inturrpts instead of using extern 'started'`
 #### Ultrasonic:
 * PB6: echo
 * PB7: trigger
